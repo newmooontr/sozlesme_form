@@ -1,0 +1,40 @@
+.text-center{ 
+    text-align: center;
+
+}
+
+.sozlesme{
+    width: auto;
+}
+
+
+label{
+  width: 135px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.sektor{
+    display: inline-block;
+    width: 200px;
+    margin-bottom:auto
+
+}
+
+.deneyim{
+    width: 200px;
+    
+}
+
+.kopya{
+    width: 300px;
+    height: 75px;
+}
+
+.mail1{
+    width: 250px;
+}
+
+.mail2{
+    width: 250px;
+}
